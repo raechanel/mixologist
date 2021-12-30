@@ -1,0 +1,50 @@
+/* html {
+  background: url(img/bar.jpeg) no-repeat center center fixed;
+  background-size: cover;
+  height: 100%;
+  overflow: hidden;
+} */
+
+
+body {
+  background: linear-gradient(rgb(205, 199, 25),rgb(216, 18, 18));
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-size: 18px;
+}
+
+
+
+
+
+
+
+/* center the button
+#generate-button {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}  */
+
+/* style the button
+button {
+  width: 340px;
+  height: 50px;
+  font-size: 24px;
+  color: white;
+  background-color: teal;
+  border: 4px solide white; 
+} */
+
+/* button:hover {
+/*     box-shadow: 5px 5px 10px black; */
+  /* background-color: white;
+  color: teal; */
+
+} */
+
+
+
